@@ -1,14 +1,20 @@
 baseURL = "http://itihas.ml/"
 languageCode = "en-us"
 title = "Account for Everything Else"
-canonifyURLs = true
 enableEmoji = true
 theme = "pristine"
 [params]
     portrait = "img/portrait.jpg"
 
 [permalinks]
-  posts = "/:title"
+  posts = "/:slug"
+  
+[frontmatter]
+  date = ["date","publishDate", "lastmod"]
+  lastmod = [":git", "lastmod", "date","publishDate"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
+
 
 [[menu.main]]
   name = "Home"
@@ -16,13 +22,8 @@ theme = "pristine"
   weight = 1
 
 [[menu.main]]
-  name = "All Articles"
+  name = "All posts"
   url = "/all/"
   weight = 2
 
-[[params.social]]
-    title = "Email"
-    url = "mailto:sahiti93@gmail.com"
-[[params.social]]
-    title = "Github"
-    url = "https://github.com/itihas"
+
