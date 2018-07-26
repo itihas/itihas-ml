@@ -1,3 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Account for Everything Else"
+theme = "pristine"
+[params]
+    portrait = "img/portrait.jpg"
