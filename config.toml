@@ -6,6 +6,10 @@ enableEmoji = true
 theme = "pristine"
 [params]
     portrait = "img/portrait.jpg"
+
+[permalinks]
+  posts = "/:title"
+
 [[menu.main]]
   name = "Home"
   url = "/"
