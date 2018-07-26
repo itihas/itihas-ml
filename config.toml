@@ -1,6 +1,24 @@
-baseURL = "http://example.org/"
+baseURL = "http://itihas.ml/"
 languageCode = "en-us"
 title = "Account for Everything Else"
+canonifyURLs = true
+enableEmoji = true
 theme = "pristine"
 [params]
     portrait = "img/portrait.jpg"
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "All Articles"
+  url = "/all/"
+  weight = 2
+
+[[params.social]]
+    title = "Email"
+    url = "mailto:sahiti93@gmail.com"
+[[params.social]]
+    title = "Github"
+    url = "https://github.com/itihas"
