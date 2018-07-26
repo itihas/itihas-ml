@@ -1,6 +1,6 @@
 ---
 title: Adamant
-date: 11-07-2016
+date: 2016-11-07
 ---
 My secret soul that hides between  
 What parts of my world count as seen  

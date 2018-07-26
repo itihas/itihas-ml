@@ -1,6 +1,6 @@
 ---
 title: On Obsession
-date: 10-08-2014
+date: 2014-10-08
 ---
 
 She tried to picture the quiet of her meditation hall, timeless, without a beat, without a count, with only the steady progression of forms, the position and reposition of the body, every action of muscle corresponding to an action of breath. One began with palms flat against each other, fingers facing up, held against the sternum, pressing into the bone like a knife-edge lightly held in place; knees and back held straight, unmoving but relaxed, still but not rigid; feet together, facing forward, eyes as well. Ekam.
