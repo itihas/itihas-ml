@@ -26,4 +26,11 @@ theme = "pristine"
   url = "/all/"
   weight = 2
 
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 3
+
+
+
 
