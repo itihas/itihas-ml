@@ -14,7 +14,7 @@ theme = "pristine"
   lastmod = [":git", "lastmod", "date","publishDate"]
   publishDate = ["publishDate", "date"]
   expiryDate = ["expiryDate"]
-  tags = ['tags']
+  tag = ['tags']
 
 [[menu.main]]
   name = "Home"
