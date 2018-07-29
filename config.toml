@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Account for Everything Else"
 enableEmoji = true
 theme = "pristine"
+paginate = 3
 [params]
     portrait = "img/portrait.jpg"
 
