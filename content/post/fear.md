@@ -1,0 +1,26 @@
++++
+title = "Fear"
+slug = "fear"
+published = Mon, 11 Jul 2016 18:34:02 +0530
+author = "itihas"
+tags = [ "drabble",]
++++
+
+You know the greatest fear?
+
+The greatest fear is thinking you once thought something that might have changed the world.
+It's too terrible a truth to face up to. We shy away from it. But you see, I have. I have read the thoughts of people who looked to change it, who succeeded, if in nothing else, in leaving their mark. Many times they are people who did more. And I have thought what they thought.
+
+This is the fear.
+
+It is an opportunity that has passed me by. It is a wound that I might have healed. It is people, who have suffered or died or lost their faith without another to replace it, because I did not care to pursue or develop or share what I thought.
+
+It has happened too many times to count. It has been happening since I was a small child. Of course it has.
+
+I am not exceptional. So, I conclude, it must happen, if not to everyone, then to a great number of people. And yet the world continues to run as if having thought of something first is worth something, as if it is possible to trace an idea through its million conceptions to some ultimate parent; as if there is value to be found in that. I live in a world where the creator is cast automatically as the best defense for an idea, where the creator's particular version with all its baggage and peculiarities is a privileged 'canon' which can be revered and reviled in its entirety as if it were a useful thing to do. It is not a world where people behave as if they have thought of many things before. Or if it is, it is one where they can't admit to it on pain of death.
+
+Metrics backpropagate. If the world behaves as if the originator of an idea bears rights and responsibilities to it, one can choose to hold oneself to that metric, and fear the overwhelming weight of the error they have made in not pursuing the potentially transformative idea they have re-encountered in someone else's work; or one can see if perhaps the metric has erred in measuring what you expected it to measure. We don't take the second door often; we rarely stop even to question what a metric is measuring in the first place. In this case, there is another fear whose shoulder is pushed up against that door: the reluctance to acknowledge that the passing thought we see echoed was never our own, that notions of claim do not reach inside one's mind to cast a protective shield around its innards. Our ideas are not unique, not necessarily and not even in practice; therefore, necessarily and in practice, they are not our own.
+
+There, in a stroke we are free from the yoke of our own imagination. And so the pattern goes: freedom is bought at the price of one's self. Independence from the outside is achieved by blurring the boundaries between within and without. It's quite simple: a few feats of everyday magic, and the world is a different place without having risen from one's chair, without having to exercise anything at all, beyond one's faculties of comprehension. And if the old notions of claim, ownership, and control were to apply, one could argue I've taken over your brain. But you see, all that's happened is that you've understood.
+
+And that's all that we're talking about, really.
