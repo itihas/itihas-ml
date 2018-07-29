@@ -1,7 +1,7 @@
 +++
 title = "Silence"
 slug = "silence"
-published = 2018-02-08T08:39 +0530
+published = 2018-02-08T08:39:00
 author = "itihas"
 tags = [ "poetry",]
 +++
