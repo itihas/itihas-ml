@@ -1,4 +1,4 @@
-+++
++2++
 title = "Exposition"
 slug = "exposition"
 published = 2014-08-10T20:18:00.002000-07:00
