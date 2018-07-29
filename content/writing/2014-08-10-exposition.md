@@ -25,8 +25,7 @@ There is nothing as toothless as an easily appeased temperament.
   
 
 
-She was only ever truly beautiful when
-she danced.
+She was only ever truly beautiful when she danced.
 
 It was what I loved her for.
 
