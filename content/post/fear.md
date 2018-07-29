@@ -1,7 +1,7 @@
 +++
 title = "Fear"
 slug = "fear"
-published = Mon, 11 Jul 2016 18:34:02 +0530
+published = 2016-07-11T18:34:02 +0530
 author = "itihas"
 tags = [ "drabble",]
 +++
