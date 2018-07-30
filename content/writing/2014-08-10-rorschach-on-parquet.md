@@ -45,8 +45,7 @@ floor wax.
 This
 was the chief worry.
 
-<span style="font-family: inherit;"><span
-style="font-size: small;">There wasn't much time left to do anything
+There wasn't much time left to do anything
 about it. The waxing happened once every three months, and was
 laborious, requiring several days of work, coordinated meticulously to
 ensure minimal obstruction of the household's everyday functioning;
@@ -55,8 +54,7 @@ Broadway musical. The wax was an import, and the workers who applied it
 were from Delhi. Nobody knew anything about the process beyond
 this.
 
-<span style="font-family: inherit;"><span
-style="font-size: small;">There were fifteen, perhaps twenty minutes
+There were fifteen, perhaps twenty minutes
 left.
 
 Warm
@@ -84,8 +82,7 @@ train, to catch up with its leader. The procession was stopped by a hand
 on the wrist, and the crowd caught up as well, spilling around the
 spectacle.
 
-<span style="font-family: inherit;"><span
-style="font-size: small;">Quiet, firm words were spoken. A pout was
+Quiet, firm words were spoken. A pout was
 elicited.
 
 The
@@ -101,16 +98,14 @@ jutting her leg out of the dress's side slit. She giggled some more, and
 there was a collective gasp as she upended her glass over her
 shoe-remover's head.
 
-<span style="font-family: inherit;"><span
-style="font-size: small;">After a moment, with movements perhaps a
+After a moment, with movements perhaps a
 little more abrupt, the other shoe was removed. The new problem now
 stood and stepped back, and there was a rush to wipe away the giant
 yellow Rorschach blot that had been left behind. A towel was offered and
 used; hair was rearranged. Once-neat cotton, mercifully dark, was dabbed
 at.
 
-<span style="font-family: inherit;"><span
-style="font-size: small;">Abruptly, everyone dispersed. The problem was
+Abruptly, everyone dispersed. The problem was
 resolved and time was up. The chiffon caught on the door its wearer had
 been whisked through, and was tugged free. The towel was snatched away
 mid-use.
