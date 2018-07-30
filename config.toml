@@ -17,20 +17,26 @@ paginate = 3
   expiryDate = ["expiryDate"]
   tag = ['tags']
 
+
+[[menu.main]]
+  name = "Picture credits"
+  url = "https://en.wikipedia.org/wiki/Asumiko_Nakamura"
+  weight = 1
+  
 [[menu.main]]
   name = "Home"
   url = "/"
-  weight = 1
+  weight = 2
 
 [[menu.main]]
   name = "All posts"
   url = "/all/"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Tags"
   url = "/tags/"
-  weight = 3
+  weight = 4
 
 
 
